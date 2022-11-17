@@ -4,7 +4,7 @@
 I'm Lundiphile Matomela a passionate self thougth FullStack Web developer and a freelance software engineer based in South Africa.
 I'm an aspiring DevOps Engineer who is passionate in programming, self motivated, an enthusiastic candidate who is keen in learning new things and solve problems using different technical skills.
 
-Should you need anything or wanna explore one my private repo's you can email me @lundiphile@gmail.com
+Should you need anything or wanna explore one my private repo's you can email me ![](mailto:lundiphile@gmail.com (mail))
 - 💼 any freelance work? do reach, email :)
 - 💬 ask me about anything, i am happy to help;
 - ⚡ Fun fact: loading..
@@ -20,7 +20,7 @@ Should you need anything or wanna explore one my private repo's you can email me
 [![twitter](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/linkedin.png (LinkeIn))][3]
 [![linkedin](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/github.png (GitHub))][4]
 
-### languages and tools:
+### Languages and Tools:
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="C-Sharp" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/csharp.png" />
 </a>
@@ -42,7 +42,7 @@ Should you need anything or wanna explore one my private repo's you can email me
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="BootsStrap" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/bootstrap.jpg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a >
   <img align="left" alt="Git" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/git.png" />
 </a>
 <br/>
@@ -57,6 +57,17 @@ Should you need anything or wanna explore one my private repo's you can email me
 - SpringBoot
 - Bootstrap
 
+### Contact me
+<hr/>
+<a href="mailto:lundiphile@gmail.com">
+  <img align="left" alt="email" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/email.png" />
+</a>
+<a href="tel:+27730974872">
+  <img align="left" alt="Call" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/phone.png" />
+</a>
+<a href="https://wa.me/2770974872">
+  <img align="left" alt="whatsapp" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/whatsapp.png" />
+</a>
 <!--
 **Khethokuhle01/khethokuhle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
