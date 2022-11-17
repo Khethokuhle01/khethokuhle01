@@ -19,7 +19,38 @@ Should you need anything or wanna explore one my private repo's you can email me
 [![twitter](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/linkedin.png (LinkeIn))][3]
 [![linkedin](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/github.png (GitHub))][4]
 
-### Languages and Tools:
+### Tools & Technologies:
+- Languages :
+  - C#
+  - Java
+  - JavaScript
+  - Python
+  - HTML5 & CSS3
+- Frameworks
+  - .Net Core
+  - SpringBoot
+  - Bootstrap
+  - ASP.NET Core
+  - RestApi's
+- Relational Databases & Non Relational Databases
+  - MSSQL
+  - MySQL
+  - SQLite
+  - NorthWind Database
+
+- IDEs & Text Editers
+  - Visual Studio
+  - JetBrains (IntelliJ, Rider, Pycharm, WebStorm )
+  - VS Code
+  - NotePad++
+
+
+### Reach Me At:
+- <a href="mailto:lundiphile@gmail.com"><img alt="email" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/email.png" /></a>
+- <a href="tel:+27730974872"><img alt="Call" width="26px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/phone.png" /></a>
+- <a href="https://wa.me/2770974872"><img alt="whatsapp" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/whatsapp.png" /></a>
+
+<br/>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="C-Sharp" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/csharp.png" />
 </a>
@@ -44,22 +75,6 @@ Should you need anything or wanna explore one my private repo's you can email me
 <a >
   <img align="left" alt="Git" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/git.png" />
 </a>
-<br/>
-<hr/>
-
-- C#
-- Java
-- HTML5 & CSS3
-- .Net Core
-- JavaScript
-- Python
-- SpringBoot
-- Bootstrap
-
-### Reach Me At:
-- <a href="mailto:lundiphile@gmail.com"><img alt="email" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/email.png" /></a>
-- <a href="tel:+27730974872"><img alt="Call" width="26px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/phone.png" /></a>
-- <a href="https://wa.me/2770974872"><img alt="whatsapp" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/whatsapp.png" /></a>
 <!--
 **Khethokuhle01/khethokuhle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
