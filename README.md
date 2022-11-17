@@ -4,16 +4,16 @@ I'm an aspiring DevOps Engineer who is passionate in programming, self motivated
 
 ### Tools & Technologies:
 - Languages :
-  - - C# - Java - JavaScript - Python - HTML5 & CSS3
-- Frameworks
-  - - .Net Core - SpringBoot - Bootstrap - ASP.NET Core - RestApi's
-- Relational Databases & Non Relational Databases
-  - /- MSSQL - MySQL - SQLite - NorthWind Database
-- IDEs & Text Editers
-  - - Visual Studio - JetBrains (IntelliJ, Rider, Pycharm, WebStorm ) - VS Code - NotePad++
+  - C# - Java - JavaScript - Python - HTML5 & CSS3
+- Frameworks:
+  - .Net Core - SpringBoot - Bootstrap - ASP.NET Core - RestApi's
+- Relational Databases & Non Relational Databases:
+  - MSSQL - MySQL - SQLite - NorthWind Database
+- IDEs & Text Editers:
+  - Visual Studio - JetBrains (IntelliJ, Rider, Pycharm, WebStorm ) - VS Code - NotePad++
 
-Should you need anything or wanna explore one my private repo's you reach me:
-### Reach Me
+##### Should you need anything or wanna explore one my private repo's you reach me:
+
 [1]: https://www.facebook.com/profile.php?id=100004553656782
 [2]: https://www.twitter.com/Lundie_Matomela
 [3]: https://www.linkedin.com/in/lundiphile-matomela-67552a1a3
@@ -24,7 +24,7 @@ Should you need anything or wanna explore one my private repo's you reach me:
 [![twitter](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/linkedin.png (LinkeIn))][3]  &nbsp; &nbsp;
 [![linkedin](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/github.png (GitHub))][4]  &nbsp; &nbsp;
 <a href="mailto:lundiphile@gmail.com"><img alt="email" width="36px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/email.png" /></a>  &nbsp; &nbsp;
-<a href="https://tel:+27730974872" ><img alt="Call" width="38px"  src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/phone.png" /></a>  &nbsp; &nbsp;
+<a href="https://tel:+27730974872" ><img alt="Call" width="38px"  src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/phone.png" /></a>  &nbsp;
 <a href="https://wa.me/2770974872"><img alt="whatsapp" width="42px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/whatsapp.png" /></a> 
 
 
