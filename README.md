@@ -1,6 +1,10 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/csharp.png" />
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=khethokuhle01.khethokuhle01)
 
-
+<br />
 I'm Lundiphile Matomela a passionate self thougth FullStack Web developer and a freelance software engineer based in South Africa.
 I'm an aspiring DevOps Engineer who is passionate in programming, self motivated, an enthusiastic candidate who is keen in learning new things and solve problems using different technical skills.
 
@@ -11,18 +15,51 @@ Should you need anything or wanna explore one my private repo's you can email me
 
 ### Social Media
 [1]: https://www.facebook.com/profile.php?id=100004553656782
-[2]: https://www.instagram.com/username
 [2]: https://www.twitter.com/Lundie_Matomela
-[3]: https://www.linkedin.com/in/lundiphile-matomela-67552a1a3/
+[3]: https://www.linkedin.com/in/lundiphile-matomela-67552a1a3
 [4]: https://www.github.com/khethokuhle01
 
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][2]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][4]
+[![facebook](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/facebook.png (Facebook))][1]
+[![github](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/twitter.png (Twitter))][2]
+[![twitter](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/linkedin.png (LinkeIn))][3]
+[![linkedin](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/github.png (GitHub))][4]
 
 ### languages and tools:
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="C-Sharp" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/csharp.png" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Java" width="36px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/java.png" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="JavaScript" width="26px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/javascript.png" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Html" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/html.png" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="CSS" width="26px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/css.png" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="DotNet" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/dotnet.png" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="BootsStrap" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/bootstrap.jpg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Git" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/Languages/git.png" />
+</a>
+<br/>
+<hr/>
 
+- C#
+- Java
+- HTML5 & CSS3
+- .Net Core
+- JavaScript
+- Python
+- SpringBoot
+- Bootstrap
 
 <!--
 **Khethokuhle01/khethokuhle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
