@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Lundiphile Matomela a self thougth FullStack Web developer. I'm based in South Africa.
+
+### Should you need anything or wanna explore one my private repo's you can email me @lundiphile@gmail.com
 
 <!--
 **Khethokuhle01/khethokuhle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
