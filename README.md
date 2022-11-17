@@ -1,11 +1,5 @@
 ### Hi there 👋
-[1]: https://www.facebook.com/profile.php?id=100004553656782
-[2]: https://www.instagram.com/username
-[2]: https://www.twitter.com/Lundie_Matomela
-[3]: https://www.linkedin.com/in/lundiphile-matomela-67552a1a3/
-[3]: https://www.github.com/khethokuhle01
 
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 
 I'm Lundiphile Matomela a passionate self thougth FullStack Web developer and a freelance software engineer based in South Africa.
 I'm an aspiring DevOps Engineer who is passionate in programming, self motivated, an enthusiastic candidate who is keen in learning new things and solve problems using different technical skills.
@@ -14,6 +8,18 @@ Should you need anything or wanna explore one my private repo's you can email me
 - 💼 any freelance work? do reach, email :)
 - 💬 ask me about anything, i am happy to help;
 - ⚡ Fun fact: loading..
+
+### Social Media
+[1]: https://www.facebook.com/profile.php?id=100004553656782
+[2]: https://www.instagram.com/username
+[2]: https://www.twitter.com/Lundie_Matomela
+[3]: https://www.linkedin.com/in/lundiphile-matomela-67552a1a3/
+[4]: https://www.github.com/khethokuhle01
+
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][2]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][4]
 
 ### languages and tools:
 
