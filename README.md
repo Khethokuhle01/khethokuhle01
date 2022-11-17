@@ -1,5 +1,4 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=khethokuhle01.khethokuhle01)
-
 <br />
 I'm Lundiphile Matomela a passionate self thougth FullStack Web developer and a freelance software engineer based in South Africa.
 I'm an aspiring DevOps Engineer who is passionate in programming, self motivated, an enthusiastic candidate who is keen in learning new things and solve problems using different technical skills.
@@ -57,17 +56,10 @@ Should you need anything or wanna explore one my private repo's you can email me
 - SpringBoot
 - Bootstrap
 
-### Contact me
-<hr/>
-<a href="mailto:lundiphile@gmail.com">
-  <img align="left" alt="email" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/email.png" />
-</a>
-<a href="tel:+27730974872">
-  <img align="left" alt="Call" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/phone.png" />
-</a>
-<a href="https://wa.me/2770974872">
-  <img align="left" alt="whatsapp" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/whatsapp.png" />
-</a>
+### Reach Me At:
+- <a href="mailto:lundiphile@gmail.com"><img alt="email" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/email.png" /></a>
+- <a href="tel:+27730974872"><img alt="Call" width="26px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/phone.png" /></a>
+- <a href="https://wa.me/2770974872"><img alt="whatsapp" width="32px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/whatsapp.png" /></a>
 <!--
 **Khethokuhle01/khethokuhle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
