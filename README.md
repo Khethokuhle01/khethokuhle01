@@ -1,8 +1,4 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://github.com/Khethokuhle01/khethokuhle01/blob/icons/csharp.png" />
-</a>
-![](https://visitor-badge.glitch.me/badge?page_id=khethokuhle01.khethokuhle01)
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=khethokuhle01.khethokuhle01)
 
 <br />
 I'm Lundiphile Matomela a passionate self thougth FullStack Web developer and a freelance software engineer based in South Africa.
