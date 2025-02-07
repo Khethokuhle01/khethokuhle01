@@ -26,18 +26,17 @@
 
 
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=khethokuhle01.khethokuhle01)
-I'm Lundiphile Matomela a passionate self thougth FullStack Web developer and a freelance software engineer based in South Africa.
-I'm an aspiring DevOps Engineer who is passionate in programming, self motivated, an enthusiastic candidate who is keen in learning new things and solve problems using different technical skills.
+I'm Lundiphile Matomela a passionate and detail-oriented Junior Software Developer with experience in full-stack development, system integration, and database management. Proficient in multiple programming languages and frameworks, an enthusiastic candidate who is keen in learning new things and solve problems using different technical skills, with a strong ability to solve complex technical challenges. Eager to contribute to innovative development teams and enhance user experiences through robust software solutions.
 
 ### Tools & Technologies:
 - Languages :
-  - C# - Java - JavaScript - Python - HTML5 & CSS3
+  - C# | Java | JavaScript | Python | HTML5 & CSS3
 - Frameworks:
-  - .Net Core - SpringBoot - Bootstrap - ASP.NET Core - RestApi's
+  - .Net Core | SpringBoot | Bootstrap | ASP.NET Core | RestApi's
 - Relational Databases & Non Relational Databases:
-  - MSSQL - MySQL - SQLite - NorthWind Database
+  - MSSQL | PostgreSQL | MySQL | SQLite
 - IDEs & Text Editers:
-  - Visual Studio - JetBrains (IntelliJ, Rider, Pycharm, WebStorm ) - VS Code - NotePad++
+  - Visual Studio | JetBrains (IntelliJ, Rider, WebStorm ) | VS Code 
 
 ##### Should you need anything or wanna explore one my private repo's you reach me:
 
@@ -46,7 +45,6 @@ I'm an aspiring DevOps Engineer who is passionate in programming, self motivated
 [3]: https://www.linkedin.com/in/lundiphile-matomela-67552a1a3
 [4]: https://www.github.com/khethokuhle01
 
-[![facebook](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/facebook.png (Facebook))][1] &nbsp; &nbsp;
 [![github](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/twitter.png (Twitter))][2]  &nbsp; &nbsp;
 [![twitter](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/linkedin.png (LinkeIn))][3]  &nbsp; &nbsp;
 [![linkedin](https://github.com/Khethokuhle01/khethokuhle01/blob/icons/github.png (GitHub))][4]  &nbsp; &nbsp;
